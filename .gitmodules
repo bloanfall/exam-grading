@@ -1,0 +1,6 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/bloanfall/Rustlings
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/bloanfall/-earning-lm-rs
